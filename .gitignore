@@ -5,3 +5,5 @@ yolo_cam/utils/__pycache__
 
 models/*
 !models/.gitkeep 
+*.zip
+*.tar.gz
